@@ -1,14 +1,19 @@
-body {
-    background-color: powderblue;
-    ;
-}
 
 
-h1 {
+
+h1{
+    text-align: center;
+    border: 5px solid rgb(13, 10, 216);
     color: blue;
     font-family: verdana;
-    font-size: 300%;
+    font-size: 200%;
 }
+
+body {
+    background-color: powderblue;
+    
+}
+
 
 h2 {
     color: black;
